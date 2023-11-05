@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# STARTOON LABS TASK
+
+Designed the front end for the screen shared . Colors are also shared for the reference.
+About the screen: This is the view profile screen in the app, with the following details:
+1) profile details are present in database – Name, Gender, Age, Picture, Phone, Email
+2) Patient ID is created and stored in database
+3) Medical details are entered by doctor and stored in database – Affected side, Condition,
+Speciality, Medical History
+4) Goal reached is based on their performance. The semi circle represents 100%. It can be any
+value between 0% to 100%. 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
